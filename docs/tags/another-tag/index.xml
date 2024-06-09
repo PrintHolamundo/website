@@ -9,9 +9,9 @@
     <atom:link href="https://printholamundo.github.io/website/tags/another-tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://printholamundo.github.io/website/patterns/pattern/</link>
+      <link>https://printholamundo.github.io/website/patterns/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://printholamundo.github.io/website/patterns/pattern/</guid>
+      <guid>https://printholamundo.github.io/website/patterns/about-me/</guid>
       <description>I’m a fast learner and a proactive self-starter, always excited about the dynamic world of technology. I love embracing new challenges and staying ahead with the latest advancements. Whether I’m working with a team or on my own, I find joy and success in both settings. My true passion is in the full development journey, from idea to execution, especially when it involves crafting projects with cutting-edge technology.&#xA;What I Do 💻 Clean Code</description>
     </item>
   </channel>

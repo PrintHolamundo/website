@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://printholamundo.github.io/website/patterns/pattern/</loc>
+    <loc>https://printholamundo.github.io/website/patterns/about-me/</loc>
   </url><url>
     <loc>https://printholamundo.github.io/website/tags/another-tag/</loc>
   </url><url>
@@ -11,6 +11,8 @@
     <loc>https://printholamundo.github.io/website/print-version/</loc>
   </url><url>
     <loc>https://printholamundo.github.io/website/tags/example-tag/</loc>
+  </url><url>
+    <loc>https://printholamundo.github.io/website/patterns/experience/</loc>
   </url><url>
     <loc>https://printholamundo.github.io/website/</loc>
   </url><url>
