@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patterns on David Haro</title>
-    <link>https://printholamundo.github.io/website/patterns/</link>
+    <link>https://davidharo.net/patterns/</link>
     <description>Recent content in Patterns on David Haro</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://printholamundo.github.io/website/patterns/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidharo.net/patterns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://printholamundo.github.io/website/patterns/about-me/</link>
+      <link>https://davidharo.net/patterns/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://printholamundo.github.io/website/patterns/about-me/</guid>
+      <guid>https://davidharo.net/patterns/about-me/</guid>
       <description>I’m a fast learner and a proactive self-starter, always excited about the dynamic world of technology. I love embracing new challenges and staying ahead with the latest advancements. Whether I’m working with a team or on my own, I find joy and success in both settings. My true passion is in the full development journey, from idea to execution, especially when it involves crafting projects with cutting-edge technology.&#xA;What I Do 💻 Clean Code</description>
     </item>
     <item>
       <title>Experience</title>
-      <link>https://printholamundo.github.io/website/patterns/experience/</link>
+      <link>https://davidharo.net/patterns/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://printholamundo.github.io/website/patterns/experience/</guid>
+      <guid>https://davidharo.net/patterns/experience/</guid>
       <description>🏢 Work Experience TATA Consultancy Services Citibank Role: SRE Technologies: Kubernetes, Docker, Red Hat Kore.ai Platform Kore.ai is a platform for creating chatbots and virtual assistants that can understand and respond to customer queries using natural language. It uses machine learning to automate tasks and improve customer engagement.&#xA;Element Fleet Technologies: CoffeeScript, Backbone.js, Node.js Element Fleet&amp;rsquo;s system offers fleet management services with vehicle acquisition, maintenance, fuel and driver safety management, telematics, tracking, and reporting for operational efficiency and cost reduction.</description>
     </item>
   </channel>

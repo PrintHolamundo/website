@@ -1,5 +1,5 @@
 title = "David Haro"
-baseURL = "https://printholamundo.github.io/website/"
+baseURL = "https://davidharo.net"
 canonifyURLs = true
 theme = "cupper"
 publishDir = "docs"
